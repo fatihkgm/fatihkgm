@@ -16,4 +16,6 @@ Skills: Skills: NODEJS / REACT / JS / PYTHON / DJANGO / HTML / CSS / and more
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fatihkgm&show_icons=true&count_private=true)  
 
+![felix-gif-maker (3)](https://user-images.githubusercontent.com/63836841/113338074-a1da9900-92f6-11eb-8f31-eb5227a37937.gif)
+
 ![Profile views](https://gpvc.arturio.dev/fatihkgm)  
