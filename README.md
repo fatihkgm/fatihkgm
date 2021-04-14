@@ -14,14 +14,7 @@
 
 </p>
 
-<p align=center>
-  <a href="https://github.com/fatihkgm?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/fatihkgm?style=flat-square&color=black&logo=github">
-  </a>
-</p>
-<p align="center">
-<a href="https://github.com/fatihkgm"><img src="https://img.shields.io/github/followers/fatihkgm?style=social"></a>
-</p>
+
 <p align="center">
 <img src="https://img.shields.io/badge/Front End-green"> <img src="https://img.shields.io/badge/Back End-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Language Processing-yellow"> <img src="https://img.shields.io/badge/Mobile App-blue"> 
 </p>
