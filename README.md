@@ -31,9 +31,7 @@
   <img src="https://img.shields.io/badge/Swift%20-%23323330.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
 
-<p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=fatihkgm&show_icons=true&theme=radical">
-</p>
+
 
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihkgm&theme=radical">
