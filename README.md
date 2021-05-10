@@ -16,10 +16,15 @@
 
 
 <p align="center">
-<img src="https://img.shields.io/badge/Front End-green"> <img src="https://img.shields.io/badge/Back End-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Language Processing-yellow"> <img src="https://img.shields.io/badge/Mobile App-blue"> 
+<img src="https://img.shields.io/badge/Front End-green"> <img src="https://img.shields.io/badge/Back End-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Language Processing-yellow"> <img src="https://img.shields.io/badge/Mobile App-blue"> <img src="https://img.shields.io/badge/DevOps-LifeCycle-white"> 
 </p>
 <hr>
 <p align="center">
+  <img src="https://img.shields.io/badge/aws%20-%2314354C.svg?&style=for-the-badge&logo=aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/azure%20-%23323330.svg?&style=for-the-badge&logo=azure&logoColor=%23F7DF1E"/>
+   <img src="https://img.shields.io/badge/docker%20-%23E34F26.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/ansible%20-%231572B6.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jenkins%20-%23F05033.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/NodeJS%20-%23121011.svg?&style=for-the-badge&logo=npm&logoColor=white"/> 
   <img src="https://img.shields.io/badge/React%20-%23F05033.svg?&style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
