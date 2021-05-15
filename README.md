@@ -1,8 +1,10 @@
 <h2 align="center">Hello there! My name is Felix. 👋</h2>
-<p align="center"> Software & Web Development, IT Operations, Programming & Systems Analysis Expert
+<p align="center"> DevOps & Software engineer
 </p>
 
-![ban](https://user-images.githubusercontent.com/63836841/113341004-a012d480-92fa-11eb-94d3-e0f249177aab.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/63836841/118346403-19603280-b509-11eb-9d02-d5a97142b2b7.gif)
+
+
 
 <p align="center">Developer with 3+ years of experience in designing and developing user interfaces,testing,debugging and building eCommerce technologies.Comprehensive knowledge of Software Development Life Cycle has a thorough understanding of various phases like Requirements,Analysis/Design, Development and Testing. Proficient in object-oriented design,database designing,data structures, problem-solving, complexity analysis and debugging. Designed and Developed custom WordPress themes and plugins.</p>
 
