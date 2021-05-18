@@ -24,7 +24,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/aws%20-%2314354C.svg?&style=for-the-badge&logo=aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/azure%20-%23323330.svg?&style=for-the-badge&logo=azure&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/kuburnetes%20-%23F05033.svg?&style=for-the-badge&logo=kuburnetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kubernetes%20-%23F05033.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
    <img src="https://img.shields.io/badge/docker%20-%23E34F26.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/ansible%20-%231572B6.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/jenkins%20-%23F05033.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
