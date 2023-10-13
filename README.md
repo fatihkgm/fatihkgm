@@ -1,11 +1,9 @@
 
-
-
-![header1](https://user-images.githubusercontent.com/63836841/155864658-2248ada2-373e-4d1e-ba1c-c8a0fa5a4ed1.gif)
+![b520ea17-4b94-4991-9feb-7105458275d5](https://github.com/fatihkgm/fatihkgm/assets/63836841/9b8132f0-11b0-41fe-b7cb-d5f57a076dbb)
 
 
 
-<p align="center">Developer with 3+ years of experience in designing and developing user interfaces,testing,debugging and building eCommerce technologies.Comprehensive knowledge of Software Development Life Cycle has a thorough understanding of various phases like Requirements,Analysis/Design, Development and Testing. Proficient in object-oriented design,database designing,data structures, problem-solving, complexity analysis and debugging. Designed and Developed custom WordPress themes and plugins.</p>
+<p align="center">Experienced DevOps Engineer with a successful track record in architecting, automating, and optimizing mission-critical deployments across extensive infrastructure. Combining strong developer skills with expertise in Configuration Management tools, I am adept at creating CI/CD pipelines.</p>
 
 
 
